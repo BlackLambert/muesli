@@ -1,0 +1,13 @@
+[package]
+name = "muesli-core"
+description = "Core of the Muesli engine: modules, contracts, handles, stages and drivers"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+authors.workspace = true
+rust-version.workspace = true
+
+[dependencies]
+
+[lints]
+workspace = true
